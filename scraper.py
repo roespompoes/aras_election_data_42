@@ -7,7 +7,7 @@ import simplejson
 import urllib2
 
 
-QUERY = 'hoeness'
+QUERY = 'explosion'
 GEOINFO = ''
 RESULTS_PER_PAGE = '100'
 LANGUAGE = ''
