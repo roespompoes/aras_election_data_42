@@ -8,9 +8,9 @@ import urllib2
 
 
 QUERY = 'explosion'
-GEOINFO = ''
+GEOINFO = '515176,9.9167'
 RESULTS_PER_PAGE = '100'
-LANGUAGE = ''
+LANGUAGE = 'de'
 NUM_PAGES = 15 
 
 for page in range(1, NUM_PAGES+1):
