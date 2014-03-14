@@ -7,8 +7,8 @@ import simplejson
 import urllib2
 
 
-QUERY = 'abstinence'
-GEOINFO = '45.464167,9.190278,27km'
+QUERY = 'hoeness'
+GEOINFO = ''
 RESULTS_PER_PAGE = '100'
 LANGUAGE = ''
 NUM_PAGES = 15 
