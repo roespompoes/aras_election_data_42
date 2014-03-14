@@ -8,7 +8,7 @@ import urllib2
 
 
 QUERY = 'explosion'
-GEOINFO = '515176,9.9167'
+GEOINFO = '515176,9.9167km'
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'de'
 NUM_PAGES = 150 
