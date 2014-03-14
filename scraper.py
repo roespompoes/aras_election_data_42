@@ -11,7 +11,7 @@ QUERY = 'explosion'
 GEOINFO = '515176,9.9167'
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'de'
-NUM_PAGES = 15 
+NUM_PAGES = 150 
 
 for page in range(1, NUM_PAGES+1):
     base_url = 'http://search.twitter.com/search.json?q=%s&geocode=%s&rpp=%s&lang=%s&page=%s' \
